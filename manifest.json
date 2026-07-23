@@ -1,0 +1,11 @@
+{
+  "name": "ORION GNSS PRO ADVANCED",
+  "short_name": "ORION",
+  "description": "Professional GNSS Engineering Platform",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "icons": []
+}
